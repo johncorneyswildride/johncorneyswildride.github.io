@@ -1,8 +1,3 @@
----
-title: John Corney's Wild Ride
-lang: cs
----
-
 Vítejte na oficiálních stránkách kapely **John Corney's Wild Ride**. Naším úkolem je dobře hrát... a Vaším úkolem je dobře se bavit!
 
 ## Kontakt
