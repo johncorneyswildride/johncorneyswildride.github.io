@@ -6,7 +6,7 @@ lang: cs
 
 # Koncerty
 
-- **Majáles Česká Kamenice:** 23. 5. 2025 od 16:00 [[více info](https://www.instagram.com/majalesceskakamenice/)]
+Majáles Česká Kamenice: 23. 5. 2025 od 16:00 [[více info](https://www.instagram.com/majalesceskakamenice/)]
 
 # Kontakt
 
